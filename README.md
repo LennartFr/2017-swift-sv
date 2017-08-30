@@ -4,8 +4,11 @@
 # Schedule
 
 6:00 - 6:20 PM: Networking, food and drinks
+
 6:20 - 6:40 PM: Introduction, Swift@IBM
+
 7:40 - 8:30 PM: Hands-on labs
+
 8:30 End
 
 # Learn to build Cognitive apps with Watson services & Swift on the Server
