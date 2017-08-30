@@ -1,6 +1,13 @@
 
 <img src="https://farm5.staticflickr.com/4337/36010504144_e7fdf1c8e0_z.jpg">
 
+# Schedule
+
+6:00 - 6:20 PM: Networking, food and drinks
+6:20 - 6:40 PM: Introduction, Swift@IBM
+7:40 - 8:30 PM: Hands-on labs
+8:30 End
+
 # Learn to build Cognitive apps with Watson services & Swift on the Server
 This is a repo for Swift on the Server Workshop in San Francisco/Silicon Valley in 2017. If you use it please give me a star - thank you!
 
