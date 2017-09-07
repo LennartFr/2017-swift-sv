@@ -102,3 +102,7 @@ Did you like this workshop? Share with us your opinion and help us make it bette
 
 Thank you for using it. Follow us on Twitter:
 [@blumareks](https://twitter.com/blumareks) & [@USABloggen](https://twitter.com/USABloggen)
+
+## Events used at
+
+* [INNOVATION WEEK - API-First Hackathon - Watson | LoopBack | Bluemix](https://www.eventbrite.com/e/innovation-week-api-first-hackathon-watson-loopback-bluemix-tickets-36478089949)
