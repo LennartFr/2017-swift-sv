@@ -106,3 +106,4 @@ Thank you for using it. Follow us on Twitter:
 ## Events used at
 
 * [INNOVATION WEEK - API-First Hackathon - Watson | LoopBack | Bluemix](https://www.eventbrite.com/e/innovation-week-api-first-hackathon-watson-loopback-bluemix-tickets-36478089949)
+* [Hands-on Workshop: Write Apps with Watson AI Services & Swift on the Server](https://www.eventbrite.com/e/hands-on-workshop-write-apps-with-watson-ai-services-swift-on-the-server-tickets-36675101215#)
