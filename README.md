@@ -54,7 +54,7 @@ Download CLI for Cloudfoundry - [CF CLI](https://github.com/cloudfoundry/cli/rel
 ## Running Server from IBM Cloud - overview
 [Let's run the Swift service for Kitura in the IBM Cloud](https://lennart-kitura-galvanize.mybluemix.net/)
 
-[Download Code to laptop]
+Download Starter Code.
 
 (<img src="https://farm5.staticflickr.com/4349/36919753986_dc449e3f51_z.jpg" width="640" height="412" alt="BluemixSwift 12.06.05">)
 
